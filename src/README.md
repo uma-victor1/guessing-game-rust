@@ -1,0 +1,1 @@
+A simple guessing game built with rust to get familiar with the language
